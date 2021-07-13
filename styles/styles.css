@@ -1,0 +1,23 @@
+@media screen and (min-width: 0px) and (max-width: 360px) {
+    #Card{
+        width: 360px
+    }
+}
+
+@media screen and (min-width: 361px) and (max-width: 375px) {
+    #Card{
+        width: 375px
+    }
+}
+
+@media screen and (min-width: 376px) and (max-width: 414px) {
+    #Card{
+        width: 414px
+    }
+}
+
+@media screen and (min-width: 415px) and (max-width: 768px){
+    #Card{
+        width: 768px
+    }
+}
