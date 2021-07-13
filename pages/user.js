@@ -35,7 +35,7 @@ export default function Home() {
         return(
           <div>
             <Card>
-              <Card.Img variant="top" id="Card" src="https://w.namu.la/s/8e9006cd96ae1f6e7a40648fb9e89a5bb8ea1715ac9b445e789de5c567b5e891b4b2e5a886d55d2eadba73e215baac6ea6b2b59d91074df8e36152a2c7efd372e02f258c584338f750d951e01d7a254cdcb677187dcfdbb27ee23107e8443814489d922fd653396ee4f680373c9fb285" />
+              <Card.Img variant="top" id="Card" src="https://raw.githubusercontent.com/GBSWHS/CI-Signature/main/assets/png/%EA%B2%BD%EB%B6%81SW%EA%B3%A0%20CI%20%EC%B5%9C%EC%A2%85%EC%95%88-1.png" />
               <Card.Body>                
                 <Card.Text>
                 1교시: {data.NowClass[1]}<br/>2교시: {data.NowClass[2]}<br/>3교시: {data.NowClass[3]}<br/>4교시: {data.NowClass[4]}<br/>5교시: {data.NowClass[6]}<br/>6교시: {data.NowClass[7]}<br/>7교시: {data.NowClass[8]}<br/>8교시: {data.NowClass[9]}<br/>9교시: {data.NowClass[9]}<br/>10교시: {data.NowClass[11]}<br/>
@@ -49,7 +49,7 @@ export default function Home() {
           <div>
             {/* style={{ maxWidth: '200px', position: 'absolute', left: '50%', transform: 'translateX(-50%)' }} */}
             <Card>
-              <Card.Img variant="top" id="Card" src="https://w.namu.la/s/8e9006cd96ae1f6e7a40648fb9e89a5bb8ea1715ac9b445e789de5c567b5e891b4b2e5a886d55d2eadba73e215baac6ea6b2b59d91074df8e36152a2c7efd372e02f258c584338f750d951e01d7a254cdcb677187dcfdbb27ee23107e8443814489d922fd653396ee4f680373c9fb285" />
+              <Card.Img variant="top" id="Card" src="https://raw.githubusercontent.com/GBSWHS/CI-Signature/main/assets/png/%EA%B2%BD%EB%B6%81SW%EA%B3%A0%20CI%20%EC%B5%9C%EC%A2%85%EC%95%88-1.png" />
               <Card.Body>
                  <Card.Text> {/*style={{position: 'absolute', left: '50%', transform: 'translateX(-50%)'}} */}
                     1교시: {data.NowClass[1]}<br/>2교시: {data.NowClass[2]}<br/>3교시: {data.NowClass[3]}<br/>4교시: {data.NowClass[4]}<br/>5교시: {data.NowClass[6]}<br/>6교시: {data.NowClass[7]}<br/>7교시: {data.NowClass[8]}<br/>8교시: {data.NowClass[9]}<br/>9교시: {data.NowClass[9]}<br/>10교시: {data.NowClass[11]}<br/>
@@ -62,7 +62,7 @@ export default function Home() {
         return(
           <div>
             <Card>
-              <Card.Img variant="top" id="Card" src="https://w.namu.la/s/8e9006cd96ae1f6e7a40648fb9e89a5bb8ea1715ac9b445e789de5c567b5e891b4b2e5a886d55d2eadba73e215baac6ea6b2b59d91074df8e36152a2c7efd372e02f258c584338f750d951e01d7a254cdcb677187dcfdbb27ee23107e8443814489d922fd653396ee4f680373c9fb285" />
+              <Card.Img variant="top" id="Card" src="https://raw.githubusercontent.com/GBSWHS/CI-Signature/main/assets/png/%EA%B2%BD%EB%B6%81SW%EA%B3%A0%20CI%20%EC%B5%9C%EC%A2%85%EC%95%88-1.png" />
               <Card.Body>                
                 <Card.Text>
                   1교시: {data.NowClass[1]}<br/>2교시: {data.NowClass[2]}<br/>3교시: {data.NowClass[3]}<br/>4교시: {data.NowClass[4]}<br/>5교시: {data.NowClass[6]}<br/>6교시: {data.NowClass[7]}<br/>7교시: {data.NowClass[8]}<br/>8교시: {data.NowClass[9]}<br/>9교시: {data.NowClass[9]}<br/>10교시: {data.NowClass[11]}<br/>                  
@@ -75,7 +75,7 @@ export default function Home() {
         return(
           <div>
             <Card>
-              <Card.Img variant="top" id="Card" src="https://w.namu.la/s/8e9006cd96ae1f6e7a40648fb9e89a5bb8ea1715ac9b445e789de5c567b5e891b4b2e5a886d55d2eadba73e215baac6ea6b2b59d91074df8e36152a2c7efd372e02f258c584338f750d951e01d7a254cdcb677187dcfdbb27ee23107e8443814489d922fd653396ee4f680373c9fb285" />
+              <Card.Img variant="top" id="Card" src="https://raw.githubusercontent.com/GBSWHS/CI-Signature/main/assets/png/%EA%B2%BD%EB%B6%81SW%EA%B3%A0%20CI%20%EC%B5%9C%EC%A2%85%EC%95%88-1.png" />
               <Card.Body>                
                 <Card.Text>
                   1교시: {data.NowClass[1]}<br/>2교시: {data.NowClass[2]}<br/>3교시: {data.NowClass[3]}<br/>4교시: {data.NowClass[4]}<br/>5교시: {data.NowClass[6]}<br/>6교시: {data.NowClass[7]}<br/>7교시: {data.NowClass[8]}<br/>8교시: {data.NowClass[9]}<br/>9교시: {data.NowClass[9]}<br/>10교시: {data.NowClass[11]}<br/> 
